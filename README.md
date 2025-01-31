@@ -64,8 +64,6 @@ Backend: [Vercel & MongoDB Atlas]
 
 🚀 Installation & Setup 1️⃣ Clone the Repository
 
-git clone https://github.com/majdsalameh1211/web_final_M.M..git cd web_final_M.M.
-
 2️⃣ Install Dependencies
 
 📌 For Frontend
